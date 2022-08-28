@@ -1,0 +1,38 @@
+<html>
+<head>
+<tittle><Rohith's Links Explorer></tittle>
+</head>
+<body bgcolor="black">
+<h1 align="center"><font size="22" color="blue" >Welcome to Palli Rohith's links explorer</h1><hr><hr>
+<marquee direction="Right"><font size="18" color="yellow" face="mistral">Website to access usually visited websites</marquee></font><hr><hr>
+<i><font size="15"color="white">Svnit Links</i></font><hr>
+
+<a href="https://svnit.ac.in/"target=:"blank"><img src="C:\Users\GPROHITH\Downloads\Screenshot_2022-08-21-18-08-37-76_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" width="100" height="100"></a>
+<a href="https://mis.svnit.ac.in/SVNIT/"target=:"blank"><img src="C:\Users\GPROHITH\Downloads\Screenshot_2022-08-21-19-46-45-73_71a729390c97f0859a897142dab869f3.jpg" width="100" height="100"></a>
+<a href="https://mis.svnit.ac.in/mispay"target=:"blank"><img src="C:\Users\GPROHITH\Downloads\Screenshot_2022-08-21-19-47-13-91_71a729390c97f0859a897142dab869f3.jpg" width="100" height="100"></a>
+<a href="http://172.50.1.1:8090/"target=:"blank"><img src="C:\Users\GPROHITH\Downloads\Screenshot_2022-08-21-19-46-06-67_71a729390c97f0859a897142dab869f3.jpg" width="100" height="100"></a>
+
+</font><hr>
+<i align ="Right"><font size="15"color="white">entertainment</i></font>
+<font size="5" color="white"><hr>
+
+<a href="https://www.instagram.com/"target=:"blank"><img src="C:\Users\GPROHITH\Downloads\Screenshot_2022-08-21-18-27-57-35_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" width="100" height="100"></a>
+<a href="https://youtube.com/"target=:"blank"><img src="C:\Users\GPROHITH\Downloads\Screenshot_2022-08-21-19-26-01-89_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" width="100" height="100"</a>
+<a href="https://open.spotify.com/"target=:"blank"><img src="C:\Users\GPROHITH\Downloads\Screenshot_2022-08-21-19-15-11-34_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" width="100" height="100"></a>
+<a href="https://web.whatsapp.com/"target=:"blank"><img src="C:\Users\GPROHITH\Downloads\Screenshot_2022-08-21-19-15-50-78_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" width="100" height="100"></a>
+<a href="https://netflix.com/"target=:"blank"><img src="C:\Users\GPROHITH\Downloads\Screenshot_2022-08-21-18-15-27-36_b783bf344239542886fee7b48fa4b892.jpg" width="100" height="100"></a>
+<a href="https://www.primevideo.com/"target=:"blank"><img src="C:\Users\GPROHITH\Downloads\Screenshot_2022-08-21-19-16-40-19_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" width="100" height="100"></a>
+<a href="https://www.hotstar.com/"target=:"blank"><img src="C:\Users\GPROHITH\Downloads\Screenshot_2022-08-21-18-16-30-59_b783bf344239542886fee7b48fa4b892.jpg" width="100" height="100"></a>
+<a href="https://www.sonyliv.com/"target=:"blank"><img src="C:\Users\GPROHITH\Downloads\Screenshot_2022-08-21-19-17-10-87_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" width="100" height="100"></a>
+<a href="https://www.zee5.com/"target=:"blank"><img src="C:\Users\GPROHITH\Downloads\Screenshot_2022-08-21-18-17-24-40_b5a5c5cb02ca09c784c5d88160e2ec24.jpg" width="100" height="100"></a>
+
+
+</font><hr>
+<i><font size="15"color="white">Shopping</i></font><hr>
+<a href="https://www.amazon.in/"target=:"blank"><img src="C:\Users\GPROHITH\Downloads\Screenshot_2022-08-28-01-07-24-48_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" width="100" height="100"></a>
+<a href="https://www.flipkart.com/"target=:"blank"><img src="C:\Users\GPROHITH\Downloads\Screenshot_2022-08-28-01-07-43-54_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" width="100" height="100"></a>
+<a href="https://www.myntra.com/"target=:"blank"><img src="C:\Users\GPROHITH\Downloads\Screenshot_2022-08-28-01-08-06-56_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" width="100" height="100"></a>
+<a href="https://www.meesho.com//"target=:"blank"><img src="C:\Users\GPROHITH\Downloads\Screenshot_2022-08-28-01-08-27-63_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" width="100" height="100"></a>
+
+</body>
+</html>
